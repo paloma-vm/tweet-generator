@@ -1,3 +1,7 @@
-# Paloma's README.md
+# Paloma's Tweet Generator
 
-I will do all the coding for the Tweet Generator in this Code folder.
+This is my tweet generator, made for ACS 1120.  
+
+It uses the Black Eyed Peas lyrics as a corpus to generate new lyrics.  
+
+[Try it out here!](https://my-tweet-generator.onrender.com)
