@@ -1,0 +1,18 @@
+.body {
+    font-size: 25px;
+    background-color: rgb(59, 244, 244);
+    font-family: Helvetica;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+h3 {
+    font-family: Helvetica;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

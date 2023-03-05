@@ -1,0 +1,13 @@
+markovstart
+apple
+ball
+cat
+dog
+elephant
+frog
+giraffe
+horse
+iguana
+jackrabbit
+koala
+markovend
